@@ -1,3 +1,1 @@
-# Shortest-Path---Courses---BFS
-# Shortest-Path---Courses---BFS
-# Shortest-Path---Courses---BFS
+# Finds the Shortest-Path for taking a particular Course using BFS based on the pre-requisites for the said course. For CSE & SWE major students at Florida Institute of Technology. It uses both the new(to be applied from Fall 2018) as well as the current curriculum.
